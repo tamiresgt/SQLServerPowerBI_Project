@@ -1,5 +1,6 @@
 # SQLServer and PowerBI Project
 On this project the objective was to integrate SQLServer with Power BI to create a commercial dashboard analyzing the online sales and also the customers. The goal is to understand the business across the time and find inghts that can help the company to grow. 
+![dashboard_2](https://github.com/user-attachments/assets/15fa3659-61bf-4358-a635-67120579b0c7)
 
 - Tools and Softaware: SQLServer, Power BI
 - Database: AdventureWorks2014 - Microsoft example database
