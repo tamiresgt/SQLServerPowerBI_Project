@@ -38,6 +38,17 @@ Step 7: Integration with PowerBI
 Step 8: Create a dashboard on PowerBI
 
 ## Analysis
+- **History of Adventure Works:**
+Adventure Works' online sales began in 2010 with the bicycles category, a category with a high average ticket, but month after month the cost of this category was higher than the profit. In 2012, they introduced two more categories: Accessories and Clothing, both categories with a low average ticket. Bicycle sales declined at the expense of these new categories, so Accessories became the company's best-selling category and the only one with a profit higher than the cost.
+
+- **Cost vs. profit:**
+The Bicycle category is the one with the highest average ticket, but its sales volume is decreasing every quarter, so revenue is also decreasing, because the cost of this category is higher than the profit. When the company introduces new categories, it accepts the challenge that this new category has a low average ticket, but gains in volume, so that the “Accessories” category becomes the company's most profitable category. Opportunity to rethink the product portfolio.
+
+- **Customer and average ticket:**
+The percentage of women and men is almost 50/50, so all strategies must be created with both genders in mind. The United States becomes the leading market, overtaking Australia, which can be explained by it being the second country with the lowest average ticket. Price opportunity to develop other countries, such as those in Europe.
+
+
+
 
 
 
